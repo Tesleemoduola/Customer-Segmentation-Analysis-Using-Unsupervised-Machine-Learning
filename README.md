@@ -1,6 +1,6 @@
 # Customer-Segmentation-Analysis-Tanzania-Tourists-As-Case-Study
 
-![](image_3.jpg)
+![Tourist Image](image_3.jpg)
 
 
 
