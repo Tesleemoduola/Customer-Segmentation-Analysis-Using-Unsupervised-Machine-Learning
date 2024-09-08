@@ -1,6 +1,6 @@
-# Customer-Segmentation-Analysis-Tanzania-Tourists-As-Case-Study
+# Customer Segmentation Analysis Using Unsupervised Machine Learning
 
-![Tourist Image](tourism_1.jpg)
+![Tourist Image](tourism_2.jpg)
 
 
 
